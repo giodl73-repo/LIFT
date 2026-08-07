@@ -44,10 +44,12 @@ better questions:
    remap authority, and rebuild changed advocacy paths.
 10. Apply [Equity and Ethical Use](modules/09-equity-and-ethical-use/README.md)
     before sharing, aggregating, or using a LIFT record.
-11. Record evidence before choosing a score.
-12. Keep uncertainty and counterevidence visible.
-13. Use the weakest dimension to guide inquiry, not to declare destiny.
-14. Reassess when managers, scope, organizations, or evidence change.
+11. Use the [Operating Toolkit](modules/10-operating-toolkit/README.md) for
+    private-first records and minimal disclosed conversations.
+12. Record evidence before choosing a score.
+13. Keep uncertainty and counterevidence visible.
+14. Use the weakest dimension to guide inquiry, not to declare destiny.
+15. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -58,6 +60,7 @@ loop before it becomes stable.
 - [Module roadmap and golden criteria](MODULES.md)
 - [Evidence policy](EVIDENCE_POLICY.md)
 - [Ethical use policy](ETHICAL_USE.md)
+- [Operating toolkit](toolkit/README.md)
 - [Publication policy](PUBLICATION_POLICY.md)
 - [Role governance](.roles/ROLE.md)
 - [Role-review history](context/role-reviews/README.md)
@@ -75,6 +78,7 @@ loop before it becomes stable.
 - Module 07 choosing an environment: draft;
 - Module 08 transitions: draft;
 - Module 09 equity and ethical use: draft;
+- Module 10 operating toolkit: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.

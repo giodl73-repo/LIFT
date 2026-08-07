@@ -44,7 +44,7 @@ Golden does not mean permanently correct. New evidence can reopen a module.
 | 07 | Choosing an environment | What can people responsibly inspect before joining a manager or organization? | role-reviewed draft |
 | 08 | Transitions | How do manager changes, transfers, and organizational resets affect evidence? | role-reviewed draft |
 | 09 | Equity and ethical use | Where do access, bias, power, and misuse invalidate a simple score? | role-reviewed draft |
-| 10 | Operating toolkit | What lightweight records support recurring reflection and conversation? | planned |
+| 10 | Operating toolkit | What lightweight records support recurring reflection and conversation? | role-reviewed draft |
 
 ## Required module artifacts
 

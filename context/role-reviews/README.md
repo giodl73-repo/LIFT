@@ -15,3 +15,4 @@ independent-human validation.
 - [Module 07 choosing an environment](2026-08-07-module-07-choosing-an-environment.md)
 - [Module 08 transitions](2026-08-07-module-08-transitions.md)
 - [Module 09 equity and ethical use](2026-08-07-module-09-equity-and-ethical-use.md)
+- [Module 10 operating toolkit](2026-08-07-module-10-operating-toolkit.md)
