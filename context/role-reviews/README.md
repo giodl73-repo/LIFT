@@ -20,3 +20,4 @@ independent-human validation.
 ## Repository governance
 
 - [Independent-review protocol](2026-08-07-independent-review-protocol.md)
+- [Reader guides](2026-08-07-reader-guides.md)

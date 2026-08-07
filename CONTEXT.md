@@ -27,7 +27,9 @@ environment diligence. Module 08 adds evidence continuity through manager,
 role, team, organization, and leave transitions. Module 09 adds the
 framework-wide equity, privacy, anti-retaliation, data-governance, AI, and
 prohibited-use contract. Module 10 adds plain private-first operating templates
-without software or centralized scoring. They are synthetic role-reviewed
+without software or centralized scoring. A question-led reader-guide layer
+routes common situations back to these modules without adding pattern
+classifiers, predictions, or career decisions. They are synthetic role-reviewed
 drafts and candidate golden modules. Pre-join M/S/E remains unknown.
 
 ## Non-negotiable boundaries

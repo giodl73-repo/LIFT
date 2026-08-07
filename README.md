@@ -51,6 +51,9 @@ better questions:
 14. Use the weakest dimension to guide inquiry, not to declare destiny.
 15. Reassess when managers, scope, organizations, or evidence change.
 
+Prefer a question-led entry point? Start with the
+[Reader Guides](guides/README.md).
+
 ## Module development
 
 LIFT is built one **golden module** at a time. Every module must pass source
@@ -61,6 +64,7 @@ loop before it becomes stable.
 - [Evidence policy](EVIDENCE_POLICY.md)
 - [Ethical use policy](ETHICAL_USE.md)
 - [Operating toolkit](toolkit/README.md)
+- [Reader guides](guides/README.md)
 - [Publication policy](PUBLICATION_POLICY.md)
 - [Role governance](.roles/ROLE.md)
 - [Role-review history](context/role-reviews/README.md)
