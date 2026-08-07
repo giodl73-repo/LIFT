@@ -25,10 +25,12 @@ better questions:
 ## Start here
 
 1. Read the [M/S/E foundation](modules/00-foundation/README.md).
-2. Record evidence before choosing a score.
-3. Keep uncertainty and counterevidence visible.
-4. Use the weakest dimension to guide inquiry, not to declare destiny.
-5. Reassess when managers, scope, organizations, or evidence change.
+2. Use [Honest Assessment](modules/01-honest-assessment/README.md) to separate
+   observed, reported, ambient, and inferred evidence.
+3. Record evidence before choosing a score.
+4. Keep uncertainty and counterevidence visible.
+5. Use the weakest dimension to guide inquiry, not to declare destiny.
+6. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -46,6 +48,7 @@ loop before it becomes stable.
 
 - repository foundation: available;
 - Module 00 M/S/E foundation: draft;
+- Module 01 honest assessment: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.

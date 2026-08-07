@@ -20,8 +20,8 @@ promotion gate.
 ## Current phase
 
 The repository is documentation-first and being developed module by module.
-Module 00, the M/S/E foundation and scoring contract, is the first candidate
-golden module.
+Modules 00 and 01 define the M/S/E foundation and honest-assessment contract.
+Both are synthetic role-reviewed drafts and candidate golden modules.
 
 ## Non-negotiable boundaries
 
