@@ -40,10 +40,12 @@ better questions:
    to track evidence movement, stalls, resets, and observed blocking safely.
 8. Use [Choosing an Environment](modules/07-choosing-an-environment/README.md)
    for reciprocal diligence before joining a manager or organization.
-9. Record evidence before choosing a score.
-10. Keep uncertainty and counterevidence visible.
-11. Use the weakest dimension to guide inquiry, not to declare destiny.
-12. Reassess when managers, scope, organizations, or evidence change.
+9. Use [Transitions](modules/08-transitions/README.md) to preserve evidence,
+   remap authority, and rebuild changed advocacy paths.
+10. Record evidence before choosing a score.
+11. Keep uncertainty and counterevidence visible.
+12. Use the weakest dimension to guide inquiry, not to declare destiny.
+13. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -68,6 +70,7 @@ loop before it becomes stable.
 - Module 05 trust and team health: draft;
 - Module 06 momentum and resistance: draft;
 - Module 07 choosing an environment: draft;
+- Module 08 transitions: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.

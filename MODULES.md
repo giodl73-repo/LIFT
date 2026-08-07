@@ -42,7 +42,7 @@ Golden does not mean permanently correct. New evidence can reopen a module.
 | 05 | Trust and team health | How should upward support and downward experience be reconciled? | role-reviewed draft |
 | 06 | Momentum and resistance | Is the evidence path improving, stalled, resetting, or structurally blocked? | role-reviewed draft |
 | 07 | Choosing an environment | What can people responsibly inspect before joining a manager or organization? | role-reviewed draft |
-| 08 | Transitions | How do manager changes, transfers, and organizational resets affect evidence? | planned |
+| 08 | Transitions | How do manager changes, transfers, and organizational resets affect evidence? | role-reviewed draft |
 | 09 | Equity and ethical use | Where do access, bias, power, and misuse invalidate a simple score? | planned |
 | 10 | Operating toolkit | What lightweight records support recurring reflection and conversation? | planned |
 

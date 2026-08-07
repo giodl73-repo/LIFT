@@ -13,3 +13,4 @@ independent-human validation.
 - [Module 05 trust and team health](2026-08-07-module-05-trust-and-team-health.md)
 - [Module 06 momentum and resistance](2026-08-07-module-06-momentum-and-resistance.md)
 - [Module 07 choosing an environment](2026-08-07-module-07-choosing-an-environment.md)
+- [Module 08 transitions](2026-08-07-module-08-transitions.md)
