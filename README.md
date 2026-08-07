@@ -29,10 +29,13 @@ better questions:
    observed, reported, ambient, and inferred evidence.
 3. Use [Advocacy in Action](modules/02-advocacy-in-action/README.md) to move
    accurate credit, context, opportunity, and access through the organization.
-4. Record evidence before choosing a score.
-5. Keep uncertainty and counterevidence visible.
-6. Use the weakest dimension to guide inquiry, not to declare destiny.
-7. Reassess when managers, scope, organizations, or evidence change.
+4. Use [The Management Cascade](modules/03-management-cascade/README.md) to
+   inspect how context, evidence, resources, opportunity, and relationships
+   travel through a team.
+5. Record evidence before choosing a score.
+6. Keep uncertainty and counterevidence visible.
+7. Use the weakest dimension to guide inquiry, not to declare destiny.
+8. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -52,6 +55,7 @@ loop before it becomes stable.
 - Module 00 M/S/E foundation: draft;
 - Module 01 honest assessment: draft;
 - Module 02 advocacy in action: draft;
+- Module 03 management cascade: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.
