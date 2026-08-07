@@ -16,3 +16,7 @@ independent-human validation.
 - [Module 08 transitions](2026-08-07-module-08-transitions.md)
 - [Module 09 equity and ethical use](2026-08-07-module-09-equity-and-ethical-use.md)
 - [Module 10 operating toolkit](2026-08-07-module-10-operating-toolkit.md)
+
+## Repository governance
+
+- [Independent-review protocol](2026-08-07-independent-review-protocol.md)

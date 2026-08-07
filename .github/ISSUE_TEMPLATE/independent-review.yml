@@ -1,0 +1,126 @@
+name: Independent review
+description: Report one privacy-safe independent attempt of one LIFT task
+title: "[Independent review] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Read the [independent-review protocol](https://github.com/giodl73-repo/LIFT/blob/main/INDEPENDENT_REVIEW.md) first.
+
+        Do not include a completed LIFT profile, personal score, employer or person names, private workplace evidence, protected information, screenshots, recordings, or confidential links. Use a synthetic scenario when possible.
+  - type: dropdown
+    id: module
+    attributes:
+      label: Module
+      description: Choose the single module primarily reviewed.
+      options:
+        - "00 - M/S/E Foundation"
+        - "01 - Honest Assessment"
+        - "02 - Advocacy in Action"
+        - "03 - Management Cascade"
+        - "04 - New-Manager Transition"
+        - "05 - Trust and Team Health"
+        - "06 - Momentum and Resistance"
+        - "07 - Choosing an Environment"
+        - "08 - Transitions"
+        - "09 - Equity and Ethical Use"
+        - "10 - Operating Toolkit"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Commit or version
+      description: Identify the public artifact you attempted.
+      placeholder: fd78237
+    validations:
+      required: true
+  - type: input
+    id: task
+    attributes:
+      label: Attempted task
+      description: Name one bounded task, not the whole framework.
+      placeholder: Produce one evidence-linked M judgment from Scenario A
+    validations:
+      required: true
+  - type: dropdown
+    id: scenario
+    attributes:
+      label: Evidence source
+      options:
+        - Synthetic scenario
+        - Public LIFT example
+        - Private context retained locally and not submitted
+    validations:
+      required: true
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: Attempt outcome
+      options:
+        - Completed without author coaching
+        - Partially completed without author coaching
+        - Stopped because instructions were insufficient
+        - Stopped for safety or privacy
+        - Stopped for accessibility
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Relevant context and conflicts
+      description: Describe only the perspective relevant to the task, prior author or AI coaching, assistive or AI use, compensation, and who defined the task. Do not identify an employer or person.
+    validations:
+      required: true
+  - type: textarea
+    id: attempt
+    attributes:
+      label: Attempt evidence
+      description: Describe where you started, the first guess, skipped fields, and smallest helpful change. Do not paste the completed record.
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Boundary explanation
+      description: Explain what the module helps inspect, what evidence it requires, what it does not prove, and when use should stop.
+    validations:
+      required: true
+  - type: textarea
+    id: findings
+    attributes:
+      label: Findings
+      description: For each finding include severity, artifact and section, observed problem, consequence, evidence from the attempt, and smallest closure condition.
+    validations:
+      required: true
+  - type: textarea
+    id: accessibility
+    attributes:
+      label: Accessibility and format
+      description: State the format used and any navigation, reading, terminology, table, notation, or cognitive-load barrier.
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations
+      description: State what this attempt did not test and which perspectives are not represented.
+    validations:
+      required: true
+  - type: checkboxes
+    id: independence
+    attributes:
+      label: Independence and publication check
+      options:
+        - label: I am a real person and did not author the module I reviewed.
+          required: true
+        - label: I attempted the task before asking an author for interpretation.
+          required: true
+        - label: I made the attempted judgments and findings myself; this is not an AI-generated review.
+          required: true
+        - label: I did not include a completed profile, score, or private workplace record.
+          required: true
+        - label: I did not identify an employer or another person.
+          required: true
+        - label: Participation was not required by someone with workplace power over me.
+          required: true

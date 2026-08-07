@@ -64,6 +64,8 @@ loop before it becomes stable.
 - [Publication policy](PUBLICATION_POLICY.md)
 - [Role governance](.roles/ROLE.md)
 - [Role-review history](context/role-reviews/README.md)
+- [Independent-review protocol](INDEPENDENT_REVIEW.md)
+- [Independent-review evidence](context/independent-reviews/README.md)
 
 ## Current maturity
 
