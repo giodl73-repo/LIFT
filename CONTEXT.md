@@ -20,10 +20,11 @@ promotion gate.
 ## Current phase
 
 The repository is documentation-first and being developed module by module.
-Modules 00 through 06 define the M/S/E foundation, honest-assessment contract,
+Modules 00 through 07 define the M/S/E foundation, honest-assessment contract,
 advocacy practice, management-cascade model, new-manager transition,
-trust-and-team-health model, and longitudinal evidence movement. They are
-synthetic role-reviewed drafts and candidate golden modules.
+trust-and-team-health model, longitudinal evidence movement, and reciprocal
+environment diligence. They are synthetic role-reviewed drafts and candidate
+golden modules. Pre-join M/S/E remains unknown.
 
 ## Non-negotiable boundaries
 
