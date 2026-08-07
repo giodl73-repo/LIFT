@@ -10,3 +10,4 @@ independent-human validation.
 - [Module 02 advocacy in action](2026-08-07-module-02-advocacy-in-action.md)
 - [Module 03 management cascade](2026-08-07-module-03-management-cascade.md)
 - [Module 04 new-manager transition](2026-08-07-module-04-new-manager-transition.md)
+- [Module 05 trust and team health](2026-08-07-module-05-trust-and-team-health.md)

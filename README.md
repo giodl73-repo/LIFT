@@ -34,10 +34,12 @@ better questions:
    travel through a team.
 5. Use [New-Manager Transition](modules/04-new-manager-transition/README.md) to
    shift from personal output toward observable management conditions.
-6. Record evidence before choosing a score.
-7. Keep uncertainty and counterevidence visible.
-8. Use the weakest dimension to guide inquiry, not to declare destiny.
-9. Reassess when managers, scope, organizations, or evidence change.
+6. Use [Trust and Team Health](modules/05-trust-and-team-health/README.md) to
+   reconcile management acts, team experience, and operating context safely.
+7. Record evidence before choosing a score.
+8. Keep uncertainty and counterevidence visible.
+9. Use the weakest dimension to guide inquiry, not to declare destiny.
+10. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -59,6 +61,7 @@ loop before it becomes stable.
 - Module 02 advocacy in action: draft;
 - Module 03 management cascade: draft;
 - Module 04 new-manager transition: draft;
+- Module 05 trust and team health: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.
