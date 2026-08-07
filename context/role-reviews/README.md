@@ -11,3 +11,4 @@ independent-human validation.
 - [Module 03 management cascade](2026-08-07-module-03-management-cascade.md)
 - [Module 04 new-manager transition](2026-08-07-module-04-new-manager-transition.md)
 - [Module 05 trust and team health](2026-08-07-module-05-trust-and-team-health.md)
+- [Module 06 momentum and resistance](2026-08-07-module-06-momentum-and-resistance.md)

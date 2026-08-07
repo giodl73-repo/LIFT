@@ -36,10 +36,12 @@ better questions:
    shift from personal output toward observable management conditions.
 6. Use [Trust and Team Health](modules/05-trust-and-team-health/README.md) to
    reconcile management acts, team experience, and operating context safely.
-7. Record evidence before choosing a score.
-8. Keep uncertainty and counterevidence visible.
-9. Use the weakest dimension to guide inquiry, not to declare destiny.
-10. Reassess when managers, scope, organizations, or evidence change.
+7. Use [Momentum and Resistance](modules/06-momentum-and-resistance/README.md)
+   to track evidence movement, stalls, resets, and observed blocking safely.
+8. Record evidence before choosing a score.
+9. Keep uncertainty and counterevidence visible.
+10. Use the weakest dimension to guide inquiry, not to declare destiny.
+11. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -62,6 +64,7 @@ loop before it becomes stable.
 - Module 03 management cascade: draft;
 - Module 04 new-manager transition: draft;
 - Module 05 trust and team health: draft;
+- Module 06 momentum and resistance: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.
