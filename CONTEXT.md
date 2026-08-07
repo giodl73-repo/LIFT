@@ -20,8 +20,9 @@ promotion gate.
 ## Current phase
 
 The repository is documentation-first and being developed module by module.
-Modules 00 and 01 define the M/S/E foundation and honest-assessment contract.
-Both are synthetic role-reviewed drafts and candidate golden modules.
+Modules 00 through 02 define the M/S/E foundation, honest-assessment contract,
+and advocacy practice. They are synthetic role-reviewed drafts and candidate
+golden modules.
 
 ## Non-negotiable boundaries
 
