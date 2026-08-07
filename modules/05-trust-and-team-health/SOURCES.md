@@ -52,6 +52,27 @@ single-signal diagnosis.
   performance-related outcomes. It does not make trust equivalent to
   popularity or prove that one leader causes every outcome.
 
+## Organizational trust repair
+
+- Gillespie, N., and Dietz, G. (2009), "Trust Repair after an
+  Organization-Level Failure," *Academy of Management Review*, 34(1), 127-145.
+  [DOI](https://doi.org/10.5465/AMR.2009.35713319).
+
+  This theoretical framework treats trust repair after organizational failure
+  as a system-level process involving response, diagnosis, reform, and
+  evaluation. It does not establish a guaranteed repair sequence.
+
+- Kahkonen, T., Blomqvist, K., Gillespie, N., and Vanhala, M. (2021),
+  "Employee Trust Repair: A Systematic Review of 20 Years of Empirical
+  Research and Future Research Directions," *Journal of Business Research*,
+  130, 98-109.
+  [DOI](https://doi.org/10.1016/j.jbusres.2021.03.019).
+
+  The review finds a context-dependent evidence base using multiple repair
+  mechanisms. LIFT therefore treats acknowledgement, participation, bounded
+  commitments, and follow-through as inquiry practices rather than proof that
+  trust has returned.
+
 ## Turnover
 
 - Rubenstein, A. L., Eberly, M. B., Lee, T. W., and Mitchell, T. R. (2018),

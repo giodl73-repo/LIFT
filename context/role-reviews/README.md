@@ -21,4 +21,5 @@ independent-human validation.
 
 - [Independent-review protocol](2026-08-07-independent-review-protocol.md)
 - [Reader guides](2026-08-07-reader-guides.md)
+- [Inherited-Distrust Addition](2026-08-07-inherited-distrust-addition.md)
 - [README story](2026-08-07-readme-story.md)

@@ -156,6 +156,35 @@ Trust is not equivalent to:
 Trust may be domain-specific. A person may trust a manager to represent their
 work accurately but not to handle a sensitive concern, or the reverse.
 
+### Inherited distrust
+
+Distrust may have formed before the current manager arrived. Prior broken
+commitments, retaliation, instability, unsafe feedback, or organizational
+neglect can shape how new management acts are interpreted.
+
+Do not:
+
+- demand a clean slate;
+- ask people to prove or publicly recount prior harm;
+- treat caution as resistance or disloyalty;
+- promise that one conversation will repair trust;
+- assume responsibility for facts that have not been established;
+- use a trust exercise instead of a formal route for serious concerns.
+
+Create new evidence through:
+
+- acknowledgement of known conditions and unknowns;
+- bounded commitments within actual authority;
+- optional participation in defining the work problem and acceptable
+  safeguards;
+- visible owners, limits, and review events;
+- prompt explanation when a commitment changes;
+- repeated follow-through over time.
+
+Record management acts, team experience, and operating context separately.
+Improved follow-through is evidence about reliability. It is not evidence that
+every person now feels safe or trusts the manager.
+
 ## The reconciliation table
 
 Use this table to choose inquiry, not a verdict.
@@ -404,6 +433,8 @@ Organizations should:
 - Anonymous comments are always safe or accurate.
 - Every contradiction can be resolved.
 - Team members should manage their manager's career.
+- A new manager is entitled to an immediate reset of trust.
+- A standard sequence guarantees that trust will be repaired.
 
 ## Examples
 
@@ -411,6 +442,7 @@ Organizations should:
 - [Strong upward reputation, recurring team concerns](examples/upward-reputation-team-concerns.md)
 - [A departure with multiple causes](examples/multicausal-departure.md)
 - [Small-team feedback privacy](examples/small-team-feedback-privacy.md)
+- [Inherited distrust and bounded commitments](examples/inherited-distrust.md)
 
 ## External evidence boundary
 

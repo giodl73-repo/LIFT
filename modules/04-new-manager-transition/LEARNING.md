@@ -24,6 +24,10 @@ diagnostic identity label.
 - organizations and the manager's manager gained explicit responsibilities;
 - management stopped being treated as mandatory advancement;
 - returning to individual contribution became a valid outcome;
+- inherited distrust became operating context rather than a team defect or
+  automatic judgment of the new manager;
+- trust-building became bounded commitments, participation, and observable
+  follow-through rather than demanded disclosure or reassurance;
 - all behavioral weights, thresholds, timelines, and promotion claims were
   removed.
 
@@ -36,3 +40,5 @@ diagnostic identity label.
 - How should a manager gather team experience safely?
 - What support should be mandatory before assigning people-management duties?
 - Does the module make leaving management feel legitimately available?
+- Can a new manager acknowledge inherited distrust without soliciting private
+  stories or claiming that trust has been repaired?

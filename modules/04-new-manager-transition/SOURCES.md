@@ -84,3 +84,23 @@ promotion timeline.
   This meta-analysis finds that feedback effects vary and can be negative,
   particularly when attention moves away from the task. LIFT therefore avoids
   treating feedback volume as evidence of effectiveness.
+
+## Organizational trust repair
+
+- Gillespie, N., and Dietz, G. (2009), "Trust Repair after an
+  Organization-Level Failure," *Academy of Management Review*, 34(1), 127-145.
+  [DOI](https://doi.org/10.5465/AMR.2009.35713319).
+
+  This theoretical framework treats organizational trust repair as a
+  system-level process involving response, diagnosis, reform, and evaluation.
+  LIFT uses it to avoid reducing inherited distrust to one relationship.
+
+- Kahkonen, T., Blomqvist, K., Gillespie, N., and Vanhala, M. (2021),
+  "Employee Trust Repair: A Systematic Review of 20 Years of Empirical
+  Research and Future Research Directions," *Journal of Business Research*,
+  130, 98-109.
+  [DOI](https://doi.org/10.1016/j.jbusres.2021.03.019).
+
+  The review describes trust repair as context-dependent and supported through
+  multiple mechanisms. It does not establish that a standard sequence,
+  apology, or management act will restore trust.

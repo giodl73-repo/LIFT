@@ -75,6 +75,48 @@ What management support has been missing?
 
 Silence is not proof that the team feels safe or agrees.
 
+### When distrust predates the manager
+
+A new manager may inherit caution created by prior broken commitments,
+retaliation, repeated change, unclear authority, or organizational neglect.
+
+Treat that caution as relevant operating context. It is not:
+
+- a debt the team must erase;
+- proof that the new manager is untrustworthy;
+- a personality diagnosis;
+- permission to demand private stories or declarations of trust.
+
+Use a bounded sequence:
+
+1. acknowledge known conditions and material uncertainty;
+2. ask how those conditions affect current work;
+3. preserve strengths and protections that should not be disrupted;
+4. choose one commitment within the manager's authority;
+5. invite affected people to contest the manager's model or propose
+   alternatives without requiring participation;
+6. make the owner, limit, and review event visible;
+7. follow through or explain promptly what changed.
+
+When people hold different models, move through:
+
+```text
+shared purpose
+  -> observed work condition
+  -> decision criteria and constraints
+  -> smallest safe change
+  -> implementation
+```
+
+Do not begin with the most contested implementation detail when the purpose,
+evidence, or decision criteria remain unclear.
+
+Visible follow-through creates new evidence. It does not prove that trust has
+been repaired or require anyone to become vulnerable.
+
+Do not use this sequence to investigate serious misconduct or require someone
+to revisit harm. Use an appropriate formal or protected route.
+
 ### Pass 2: Establish contracts
 
 Make the management relationship inspectable.
@@ -368,6 +410,8 @@ organization makes the choice discussable without stigma.
 - Spending a fixed percentage of time on direct work proves failure.
 - Prior craft expertise becomes irrelevant.
 - Team trust begins at zero.
+- A new title resets inherited distrust.
+- People must disclose prior harm or affirm trust before work can improve.
 - Team outcomes are caused only by the manager.
 - Delegation means maximal autonomy in every decision.
 - Psychological safety means comfort, agreement, or lack of accountability.

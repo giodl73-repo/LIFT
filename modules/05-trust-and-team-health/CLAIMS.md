@@ -10,6 +10,9 @@
 | Voluntary turnover has multiple individual, job, manager, and organizational antecedents | externally supported | retain |
 | Multisource feedback can support development, with modest and context-dependent effects | externally supported | retain with safeguards |
 | Upward support and team experience should be reconciled through inquiry | LIFT practice | retain |
+| Distrust may reflect prior management and organizational conditions rather than only the current relationship | practitioner hypothesis with adjacent trust-repair support | retain as a contextual possibility |
+| Bounded commitments and observable follow-through create evidence of reliability but do not prove repaired trust | LIFT practice with adjacent trust-repair support | retain |
+| People should not be compelled to disclose prior harm or declare trust | LIFT ethical principle | retain |
 | Team experience should be converted into a second M score | private synthetic rule | reject |
 | Team feedback should multiply an upward advocacy score | private synthetic formula | remove |
 | Survey scores directly measure manager quality | unsupported simplification | reject |

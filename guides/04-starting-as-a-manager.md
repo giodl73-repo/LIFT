@@ -30,6 +30,37 @@ Inspect:
 
 Do not begin by diagnosing people from reputation or inherited labels.
 
+### If distrust predates you
+
+Do not ask the team for a clean slate or a declaration of trust.
+
+Instead:
+
+1. acknowledge known conditions and what remains unknown;
+2. ask how those conditions affect current work, without soliciting private
+   stories;
+3. identify one commitment within your authority;
+4. invite the team to correct the model or propose a safer alternative without
+   requiring participation;
+5. name the owner, limit, and review event;
+6. follow through or explain promptly what changed.
+
+When disagreement begins at the implementation detail, move outward:
+
+```text
+shared purpose
+  -> observed work condition
+  -> decision criteria and constraints
+  -> smallest safe change
+  -> implementation
+```
+
+This creates inspectable evidence. It does not prove that trust has been
+repaired.
+
+Use an appropriate formal or protected route for serious misconduct or harm.
+Do not turn it into a trust-building exercise.
+
 ## 2. Establish contracts
 
 Clarify:
@@ -95,6 +126,8 @@ review trigger.
 - continuing to optimize primarily for personal output;
 - using team sentiment as a manager score;
 - demanding trust disclosure;
+- treating inherited caution as resistance or disloyalty;
+- using a trust exercise instead of repairing a work condition;
 - treating silence as safety;
 - giving opportunity only to the most visible people;
 - rescuing work without clarifying ownership;

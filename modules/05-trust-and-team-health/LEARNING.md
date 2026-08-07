@@ -26,6 +26,10 @@ outcomes as deterministic signals.
   rules;
 - serious misconduct was routed outside ordinary development feedback;
 - fairness to the manager was made compatible with source protection;
+- inherited distrust became a contextual condition rather than a defect to
+  erase or a verdict on the new manager;
+- trust repair became bounded commitments and observable follow-through
+  without coerced disclosure or guaranteed outcomes;
 - M/S/E remained an advocacy profile and did not absorb team sentiment.
 
 ## Open learning questions
@@ -37,3 +41,5 @@ outcomes as deterministic signals.
 - What is a safe feedback design for teams of two or three?
 - How should organizations communicate action after confidential feedback?
 - Does the reconciliation table reduce both dismissal and premature judgment?
+- Can a new manager establish useful commitments without asking people to
+  declare trust or identify confidential sources?

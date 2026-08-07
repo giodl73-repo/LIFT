@@ -12,6 +12,9 @@
 | Feedback effects depend on focus and design | externally supported | retain |
 | Organizations share responsibility for supporting manager transitions | LIFT ethical principle | retain |
 | Management is not the required advancement path | LIFT ethical principle | retain |
+| A new manager may inherit caution produced by prior management or organizational conditions | practitioner hypothesis with adjacent trust-repair support | retain as context, not a diagnosis |
+| Bounded commitments, participation, and observable follow-through can create new evidence of reliability | LIFT practice with adjacent trust-repair support | retain without promising repaired trust |
+| People should not be required to disclose prior harm or affirm trust during a transition | LIFT ethical principle | retain |
 | An automatic fixed M baseline applies at transition | private synthetic claim | remove |
 | The first 90 days predict a fixed recovery trajectory | private synthetic claim | remove |
 | A time-allocation threshold diagnoses a failed transition | private synthetic rule | remove |
