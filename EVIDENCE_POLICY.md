@@ -48,6 +48,21 @@ Do not infer advocacy from warmth, title, meeting attendance, or generic praise
 alone. If the evidence does not distinguish adjacent values, record a range
 such as `5–6` rather than choosing a more precise number.
 
+## Ethical-use gate
+
+A score is not valid for every purpose merely because its evidence is
+documented.
+
+LIFT scores must not be used for hiring, pay, promotion, performance ratings,
+discipline, termination, layoff, succession, talent ranking, or retention-risk
+decisions.
+
+Before sharing a record, apply the [Ethical Use Policy](ETHICAL_USE.md) and
+[Module 09](modules/09-equity-and-ethical-use/README.md). Unsafe collection,
+protected information, retaliation risk, unequal evidence opportunity, or
+unauthorized secondary use can require restriction, deletion, or routing
+outside LIFT.
+
 ## Revision
 
 When evidence contradicts a module:

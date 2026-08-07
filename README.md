@@ -42,10 +42,12 @@ better questions:
    for reciprocal diligence before joining a manager or organization.
 9. Use [Transitions](modules/08-transitions/README.md) to preserve evidence,
    remap authority, and rebuild changed advocacy paths.
-10. Record evidence before choosing a score.
-11. Keep uncertainty and counterevidence visible.
-12. Use the weakest dimension to guide inquiry, not to declare destiny.
-13. Reassess when managers, scope, organizations, or evidence change.
+10. Apply [Equity and Ethical Use](modules/09-equity-and-ethical-use/README.md)
+    before sharing, aggregating, or using a LIFT record.
+11. Record evidence before choosing a score.
+12. Keep uncertainty and counterevidence visible.
+13. Use the weakest dimension to guide inquiry, not to declare destiny.
+14. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -55,6 +57,7 @@ loop before it becomes stable.
 
 - [Module roadmap and golden criteria](MODULES.md)
 - [Evidence policy](EVIDENCE_POLICY.md)
+- [Ethical use policy](ETHICAL_USE.md)
 - [Publication policy](PUBLICATION_POLICY.md)
 - [Role governance](.roles/ROLE.md)
 - [Role-review history](context/role-reviews/README.md)
@@ -71,6 +74,7 @@ loop before it becomes stable.
 - Module 06 momentum and resistance: draft;
 - Module 07 choosing an environment: draft;
 - Module 08 transitions: draft;
+- Module 09 equity and ethical use: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.

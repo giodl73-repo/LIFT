@@ -14,3 +14,4 @@ independent-human validation.
 - [Module 06 momentum and resistance](2026-08-07-module-06-momentum-and-resistance.md)
 - [Module 07 choosing an environment](2026-08-07-module-07-choosing-an-environment.md)
 - [Module 08 transitions](2026-08-07-module-08-transitions.md)
+- [Module 09 equity and ethical use](2026-08-07-module-09-equity-and-ethical-use.md)
