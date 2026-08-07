@@ -21,3 +21,4 @@ independent-human validation.
 
 - [Independent-review protocol](2026-08-07-independent-review-protocol.md)
 - [Reader guides](2026-08-07-reader-guides.md)
+- [README story](2026-08-07-readme-story.md)
