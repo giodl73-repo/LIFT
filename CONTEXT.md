@@ -20,9 +20,9 @@ promotion gate.
 ## Current phase
 
 The repository is documentation-first and being developed module by module.
-Modules 00 through 03 define the M/S/E foundation, honest-assessment contract,
-advocacy practice, and management-cascade model. They are synthetic
-role-reviewed drafts and candidate golden modules.
+Modules 00 through 04 define the M/S/E foundation, honest-assessment contract,
+advocacy practice, management-cascade model, and new-manager transition. They
+are synthetic role-reviewed drafts and candidate golden modules.
 
 ## Non-negotiable boundaries
 

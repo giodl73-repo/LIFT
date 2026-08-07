@@ -32,10 +32,12 @@ better questions:
 4. Use [The Management Cascade](modules/03-management-cascade/README.md) to
    inspect how context, evidence, resources, opportunity, and relationships
    travel through a team.
-5. Record evidence before choosing a score.
-6. Keep uncertainty and counterevidence visible.
-7. Use the weakest dimension to guide inquiry, not to declare destiny.
-8. Reassess when managers, scope, organizations, or evidence change.
+5. Use [New-Manager Transition](modules/04-new-manager-transition/README.md) to
+   shift from personal output toward observable management conditions.
+6. Record evidence before choosing a score.
+7. Keep uncertainty and counterevidence visible.
+8. Use the weakest dimension to guide inquiry, not to declare destiny.
+9. Reassess when managers, scope, organizations, or evidence change.
 
 ## Module development
 
@@ -56,6 +58,7 @@ loop before it becomes stable.
 - Module 01 honest assessment: draft;
 - Module 02 advocacy in action: draft;
 - Module 03 management cascade: draft;
+- Module 04 new-manager transition: draft;
 - independent practitioner review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.

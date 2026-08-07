@@ -38,7 +38,7 @@ Golden does not mean permanently correct. New evidence can reopen a module.
 | 01 | Honest assessment | How do you score observable evidence without scoring optimism? | role-reviewed draft |
 | 02 | Advocacy in action | Which manager behaviors create credit, context, and opportunity? | role-reviewed draft |
 | 03 | The management cascade | How do manager pathways amplify or constrain a team? | role-reviewed draft |
-| 04 | New-manager transition | What changes when personal output stops being the primary evidence? | planned |
+| 04 | New-manager transition | What changes when personal output stops being the primary evidence? | role-reviewed draft |
 | 05 | Trust and team health | How should upward support and downward experience be reconciled? | planned |
 | 06 | Momentum and resistance | Is the evidence path improving, stalled, resetting, or structurally blocked? | planned |
 | 07 | Choosing an environment | What can people responsibly inspect before joining a manager or organization? | planned |
