@@ -40,6 +40,10 @@ A cross-cutting practices layer addresses evidence burden, collective
 contribution, correction, and end-to-end application without creating Module
 11 or changing the M/S/E model.
 
+A domain field-guide layer translates evidence sources, authority, pathway
+actions, and safety boundaries across work settings without changing the core
+model.
+
 ## Non-negotiable boundaries
 
 - No employer-specific levels, policies, documents, examples, or provenance.

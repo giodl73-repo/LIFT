@@ -24,4 +24,6 @@ independent-human validation.
 - [Inherited-Distrust Addition](2026-08-07-inherited-distrust-addition.md)
 - [Stories and Metaphors](2026-08-08-stories-and-metaphors.md)
 - [Cross-Cutting Practices](2026-08-08-cross-cutting-practices.md)
+- [Domain Field Guides](2026-08-08-domain-field-guides.md)
+- [Domain Field Guides Synthetic Test](2026-08-08-domain-synthetic-test.md)
 - [README story](2026-08-07-readme-story.md)

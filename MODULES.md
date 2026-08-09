@@ -57,6 +57,7 @@ module, dimension, score, or required workflow.
 | [Reader guides](guides/README.md) | route common questions to the smallest relevant module and record | role-reviewed draft |
 | [Stories and metaphors](STORIES_AND_METAPHORS.md) | provide optional bounded illustrations with direct-rule fallbacks | role-reviewed draft |
 | [Cross-cutting practices](practices/README.md) | compose modules around evidence burden, collective contribution, correction, and an integrated case | role-reviewed draft |
+| [Domain field guides](domains/README.md) | translate evidence, authority, action, and safety boundaries across work settings | role-reviewed draft |
 
 ## Required module artifacts
 

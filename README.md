@@ -138,6 +138,7 @@ Review processes and access conditions, not hidden employee profiles.
 | I have a specific situation or question | [Reader Guides](guides/README.md) |
 | I want a memorable explanation without losing the evidence boundary | [Stories and Metaphors](STORIES_AND_METAPHORS.md) |
 | I need a cross-cutting practice or end-to-end case | [Practices and Casebook](practices/README.md) |
+| I need LIFT translated for a particular work setting | [Domain Field Guides](domains/README.md) |
 | I want the smallest blank record | [Operating Toolkit](toolkit/README.md) |
 | I want to understand M/S/E | [Module 00: Foundation](modules/00-foundation/README.md) |
 | I need the safety boundary first | [Ethical Use Policy](ETHICAL_USE.md) |
@@ -240,6 +241,8 @@ Synthetic roles are design lenses, not external experts or empirical evidence.
 - reader guides and operating toolkit: available as drafts;
 - stories, metaphors, and cross-cutting practices: available as optional
   role-reviewed drafts;
+- domain field guides: available as role-reviewed drafts requiring
+  domain-practitioner review;
 - independent-human review: open;
 - validated predictive model: **not claimed**;
 - software: deferred.
