@@ -60,4 +60,3 @@ Related:
 [Module 02](../modules/02-advocacy-in-action/README.md),
 [Module 06](../modules/06-momentum-and-resistance/README.md), and
 [Represent Collective Contribution](../practices/collective-contribution.md).
-

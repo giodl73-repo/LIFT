@@ -20,4 +20,3 @@ processes:
 
 These sources are jurisdiction-specific examples, not universal legal rules.
 Readers must use the qualified rules and processes that apply to their setting.
-

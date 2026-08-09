@@ -65,4 +65,3 @@ failure. No critical or major synthetic finding remains.
 
 Proceed to independent domain-practitioner testing before calling the layer
 portable or expanding it further.
-

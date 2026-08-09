@@ -141,4 +141,3 @@ rejects the misuse trap without adding a domain score, new profile identity, or
 shadow record.
 
 A guide should be revised, split, or retired when it cannot do so.
-
