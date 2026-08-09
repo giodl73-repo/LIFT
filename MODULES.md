@@ -46,6 +46,18 @@ Golden does not mean permanently correct. New evidence can reopen a module.
 | 09 | Equity and ethical use | Where do access, bias, power, and misuse invalidate a simple score? | role-reviewed draft |
 | 10 | Operating toolkit | What lightweight records support recurring reflection and conversation? | role-reviewed draft |
 
+## Companion layers
+
+Modules remain authoritative for LIFT semantics, scoring, evidence, and ethical
+boundaries. Companion layers route or compose those rules without adding a
+module, dimension, score, or required workflow.
+
+| Layer | Purpose | Status |
+|---|---|---|
+| [Reader guides](guides/README.md) | route common questions to the smallest relevant module and record | role-reviewed draft |
+| [Stories and metaphors](STORIES_AND_METAPHORS.md) | provide optional bounded illustrations with direct-rule fallbacks | role-reviewed draft |
+| [Cross-cutting practices](practices/README.md) | compose modules around evidence burden, collective contribution, correction, and an integrated case | role-reviewed draft |
+
 ## Required module artifacts
 
 Each module directory should contain:

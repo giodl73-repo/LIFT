@@ -30,7 +30,15 @@ prohibited-use contract. Module 10 adds plain private-first operating templates
 without software or centralized scoring. A question-led reader-guide layer
 routes common situations back to these modules without adding pattern
 classifiers, predictions, or career decisions. They are synthetic role-reviewed
-drafts and candidate golden modules. Pre-join M/S/E remains unknown.
+drafts. Modules 00 through 10 are candidate golden modules. Pre-join M/S/E
+remains unknown.
+
+A stories-and-metaphors companion page provides four bounded illustrative
+explanations without changing module authority, scoring, or evidence rules.
+
+A cross-cutting practices layer addresses evidence burden, collective
+contribution, correction, and end-to-end application without creating Module
+11 or changing the M/S/E model.
 
 ## Non-negotiable boundaries
 

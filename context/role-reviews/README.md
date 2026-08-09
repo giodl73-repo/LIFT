@@ -22,4 +22,6 @@ independent-human validation.
 - [Independent-review protocol](2026-08-07-independent-review-protocol.md)
 - [Reader guides](2026-08-07-reader-guides.md)
 - [Inherited-Distrust Addition](2026-08-07-inherited-distrust-addition.md)
+- [Stories and Metaphors](2026-08-08-stories-and-metaphors.md)
+- [Cross-Cutting Practices](2026-08-08-cross-cutting-practices.md)
 - [README story](2026-08-07-readme-story.md)
