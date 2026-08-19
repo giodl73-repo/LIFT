@@ -1,6 +1,35 @@
-MIT License
+LIFT uses separate licenses for content and software.
+
+Content license
+---------------
 
 Copyright (c) 2026 Gio Della-Libera
+
+Unless a file states otherwise, all original non-software content in this
+repository is licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0):
+
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+You may share and adapt the content with attribution for noncommercial
+purposes. Commercial use is not granted by this license and requires separate
+written permission from Gio Della-Libera.
+
+For attribution, use:
+
+LIFT, by Gio Della-Libera, https://github.com/giodl73-repo/LIFT
+
+Versions previously distributed under the MIT License remain available under
+that license. This change governs content distributed from this version
+forward.
+
+Software license
+----------------
+
+Copyright (c) 2026 Gio Della-Libera
+
+Source code and executable scripts in this repository are licensed under the
+MIT License:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +48,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Third-party material and dependencies remain subject to their own licenses.

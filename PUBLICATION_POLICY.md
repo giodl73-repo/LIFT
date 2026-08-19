@@ -41,3 +41,10 @@ Before publication, ask:
   discriminatory inference?
 
 If uncertain, transform further or do not publish.
+
+## Licensing boundary
+
+Original public content is licensed under CC BY-NC 4.0. Sharing and adaptation
+are allowed with attribution for noncommercial purposes. Commercial use
+requires separate written permission from Gio Della-Libera. Source code and
+executable scripts are separately licensed under MIT; see [LICENSE](LICENSE).

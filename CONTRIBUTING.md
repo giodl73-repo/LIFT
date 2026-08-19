@@ -23,3 +23,10 @@ completed profile, personal score, or private workplace evidence.
 
 Independent reviews are indexed separately from synthetic
 [role reviews](context/role-reviews/README.md).
+
+## Licensing contributions
+
+By submitting a contribution, you agree that original non-software content is
+licensed under CC BY-NC 4.0 and source code or executable scripts are licensed
+under MIT, as described in [LICENSE](LICENSE). Do not submit material you do
+not have the right to license on those terms.

@@ -254,4 +254,13 @@ It is not affiliated with or endorsed by any employer.
 
 ## License
 
-[MIT](LICENSE)
+LIFT uses [split licensing](LICENSE):
+
+- substantial original content is CC BY-NC 4.0, allowing attributed
+  noncommercial sharing and adaptation;
+- software and executable scripts are MIT licensed; and
+- commercial use of the content requires separate written permission from
+  Gio Della-Libera.
+
+Versions previously distributed under MIT remain available under that
+license. The split applies to content distributed from this version forward.
